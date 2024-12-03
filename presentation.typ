@@ -28,6 +28,12 @@
   - All sensor units completely independent (independent failure)
 ]
 
+#slide(title: "System layout")[
+  #figure(
+    image("./img/c4_container1.png"),
+  )
+]
+
 #slide(title: "Meshed weather sensor")[
   #figure(
     (
